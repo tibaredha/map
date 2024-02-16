@@ -1,0 +1,180 @@
+"ID","IDW","WILAYA","EPSP","DAIRA","COMMUNE","TYPE","STRUCTURE","MATERNITE","NBRLIT","LATITUDE","LONGITUDE"
+1,17,"Djelfa","Ain Oussera","Had El Sahary","Ain feka","PC","Ain Afkah","n",0,35.42625,3.57819
+2,17,"Djelfa","Ain Oussera","Had El Sahary","Ain feka","SS","Kalaat Yahia","n",0,17,17
+3,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","PC","Ben Kous Ibrahim","n",0,35.45654,2.89234
+4,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","PC","Guazel Omar","n",0,35.44209,2.89216
+5,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","PC","Lakhal Bachir","n",0,35.45012,2.90256
+6,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","SS","Ouled Daoued","n",0,35.43953,2.90327
+7,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","SS","Slimane Slimane","n",0,35.44918,2.89403
+8,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","SS","El Mahata","n",0,35.44369,2.91458
+9,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","SS","Nouidjem","n",0,35.45238,2.91988
+10,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","SS","La Gare","n",0,35.44369,2.91458
+11,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","SS","El Chikh Mostphai","n",0,35.43166,2.89172
+12,17,"Djelfa","Ain Oussera","Birine","Ben Nahar","SS","Ben Nahar","n",0,35.48546,3.00997
+13,17,"Djelfa","Ain Oussera","Birine","Ben Nahar","SS","Dar Souari","n",0,35.39665,3.00042
+14,17,"Djelfa","Ain Oussera","Birine","Ben Nahar","SS","Menaa","n",0,35.70424,3.00826
+15,17,"Djelfa","Ain Oussera","Birine","Ben Nahar","SS","Oussisara","n",0,35.45512,2.91987
+16,17,"Djelfa","Ain Oussera","Birine","Ben Nahar","SS","Benhar Nouvelle","n",0,35.48711,3.01142
+17,17,"Djelfa","Ain Oussera","Birine","Birine","PC","Birine","n",0,35.6389,3.22762
+18,17,"Djelfa","Ain Oussera","Birine","Birine","SS","Hourabat","n",0,17,17
+19,17,"Djelfa","Ain Oussera","Birine","Birine","SS","Touila","n",0,35.52954,3.23564
+20,17,"Djelfa","Ain Oussera","Had El Sahary","Bouiret Lahdeb","PC","Bouiret Lahdeb","n",0,35.24731,3.14604
+21,17,"Djelfa","Ain Oussera","Had El Sahary","Bouiret Lahdeb","SS","Ouled Si Ameur","n",0,35.1814,3.1823
+22,17,"Djelfa","Ain Oussera","Had El Sahary","Bouiret Lahdeb","SS","Seguiaa","n",0,35.20967,3.02115
+23,17,"Djelfa","Ain Oussera","Had El Sahary","Bouiret Lahdeb","SS","Ouled Bouaicha","n",0,17,17
+24,17,"Djelfa","Ain Oussera","Sid  Laadjel","El Khemis","SS","El Khemis","n",0,35.28685,2.59464
+25,17,"Djelfa","Ain Oussera","Sid  Laadjel","El Khemis","SS","Mouilah","n",0,35.3976,2.79093
+26,17,"Djelfa","Ain Oussera","Sid  Laadjel","El Khemis","SS","El Saadat","n",0,35.43197,2.60632
+27,17,"Djelfa","Ain Oussera","Ain Oussera","Guermini","SS","Guermini","n",0,35.20019,2.68191
+28,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","PC","Had El Sahary","y",0,35.35446,3.3657
+29,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","Had El Sahary","n",0,35.35187,3.36103
+30,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","Ahmed Zabana","n",0,35.34752,3.36738
+31,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","Ouled Said","n",0,35.4558,3.2278
+32,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","Si El Haoues","n",0,35.35901,3.36845
+33,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","Draa El Methnane","n",0,17,17
+34,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","Guasria","n",0,17,17
+35,17,"Djelfa","Ain Oussera","Had El Sahary","Had El Sahary","SS","El Chareb","n",0,17,17
+36,17,"Djelfa","Ain Oussera","Sid  Laadjel","Hassi Fedoul","PC","Hassi Fedoul","n",0,35.43754,2.21285
+37,17,"Djelfa","Ain Oussera","Sid  Laadjel","Hassi Fedoul","SS","Djedida","n",0,17,17
+38,17,"Djelfa","Ain Oussera","Sid  Laadjel","Hassi Fedoul","SS","Tir El Goulab","n",0,17,17
+39,17,"Djelfa","Ain Oussera","Sid  Laadjel","Sid  Laadjel","PC","Sidi  Laadjel","y",0,35.43776,2.5158
+40,17,"Djelfa","Ain Oussera","Sid  Laadjel","Sid  Laadjel","SS","Haouch El Kaid","n",0,3536396,2.44567
+41,17,"Djelfa","Ain Oussera","Sid  Laadjel","Sid  Laadjel","SS","El Ardja","n",0,3541876,2.43934
+42,17,"Djelfa","Ain Oussera","Sid  Laadjel","Sid  Laadjel","SS","El Nacer","n",0,35.4344,2.50952
+43,17,"Djelfa","Djelfa","Idrissia","Ain Chouhada","PC","Ain Chouhada","n",0,34.24477,2.52016
+44,17,"Djelfa","Djelfa","Idrissia","Ain Chouhada","SS","Bouchkioua","n",0,34.15341,2.61993
+44,17,"Djelfa","Djelfa","Idrissia","Ain Chouhada","SS","Mrires","n",0,0,0
+45,17,"Djelfa","Djelfa","Charef","Ben Yagoub","PC","Ben Yagoub","n",0,34.4664,2.78489
+46,17,"Djelfa","Djelfa","Charef","Ben Yagoub","SS","Fekirine","n",0,34.5006,2.90726
+47,17,"Djelfa","Djelfa","Charef","Charef","PC","Charef","y",0,34.61889,2.807
+48,17,"Djelfa","Djelfa","Charef","Charef","SS","Ain Lahdjar","n",0,34.6532,2.74564
+49,17,"Djelfa","Djelfa","Charef","Charef","SS","Centre de Sante","n",0,34.61669,2.80105
+50,17,"Djelfa","Djelfa","Charef","Charef","SS","Louibed","n",0,34.64025,2.685
+51,17,"Djelfa","Djelfa","Charef","Charef","SS","Taouzara","n",0,34.58642,2.87326
+52,17,"Djelfa","Djelfa","Charef","Charef","SS","Touazi","n",0,34.70032,2.82421
+53,17,"Djelfa","Djelfa","Charef","Charef","SS","El Hamam","n",0,34.46633,2.85052
+53,17,"Djelfa","Djelfa","Charef","Charef","SS","Guetia","n",0,0,0
+54,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Ain Chih","y",0,34.66952,3.23836
+55,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Ain Serrar","y",0,34.68997,3.25933
+56,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Ben Djerma","n",0,34.66739,3.24907
+57,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Bourdj","n",0,34.6822,3.24739
+58,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Boutrifis 2","n",0,34.68807,3.27185
+59,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","El falah","n",0,34.67237,3.25713
+60,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Karia","n",0,34.60635,3.24118
+61,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Bab Boussaada","n",0,34.67967,3.26533
+62,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","El Wiaam","n",0,34.67615,3.2765
+62,17,"Djelfa","Djelfa","Djelfa","Djelfa","PC","Bahrara","n",0,0,0
+63,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","El Bassatine","n",0,34.65236,3.26751
+64,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","05 Juillet","n",0,34.65871,3.27349
+65,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","100 maisons","n",0,34.68082,3.25524
+66,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Cite Ben Said","n",0,34.66514,3.23014
+67,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Ain Zina","n",0,34.7217513,3.201648
+68,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Cite Messaoudi","n",0,34.66487,3.27929
+69,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Bahrara","n",0,34.69111,3.27282
+70,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Berbih","n",0,0,0
+70,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Chaikh naas","n",0,0,0
+70,17,"Djelfa","Djelfa","Djelfa","Djelfa","SS","Ben nili","n",0,0,0
+71,17,"Djelfa","Djelfa","Idrissia","Douis","PC","Douis","n",0,34.36926,2.70248
+72,17,"Djelfa","Djelfa","Charef","El Guedid","PC","El Guedid","y",0,34.64558,2.61226
+73,17,"Djelfa","Djelfa","Charef","El Guedid","SS","Oum Chegag","n",0,34.70369,2.40499
+73,17,"Djelfa","Djelfa","Charef","El Guedid","SS","Kacem benyahia","n",0,0,0
+74,17,"Djelfa","Djelfa","Idrissia","Idrissia","PC","Idrissia","n",0,34.44641,2.53246
+75,17,"Djelfa","Djelfa","Idrissia","Idrissia","SS","Ain Lahdjar","n",0,34.6582,2.74564
+76,17,"Djelfa","Djelfa","Idrissia","Idrissia","SS","El Nahda","n",0,34.45131,2.53677
+77,17,"Djelfa","Djelfa","Idrissia","Idrissia","SS","Centre de Sante","n",0,34.45235,2.53008
+78,17,"Djelfa","Djelfa","Idrissia","Idrissia","SS","Kaf El Baze","n",0,34.44099,2.57332
+78,17,"Djelfa","Djelfa","Idrissia","Idrissia","SS","Mtiriha","n",0,0,0
+79,17,"Djelfa","Guettara","Feid El Botma","Amoura","SS","Abdelmadjid","n",0,17,17
+80,17,"Djelfa","Guettara","Feid El Botma","Amoura","SS","Amoura","n",0,17,17
+81,17,"Djelfa","Guettara","Feid El Botma","Amoura","SS","Amourah Centre","n",0,17,17
+82,17,"Djelfa","Guettara","Messaad","Deldoul","SS","Deldoul","n",0,34.20447,3.25324
+83,17,"Djelfa","Guettara","Messaad","Deldoul","SS","Graita","n",0,34.20474,3.16979
+84,17,"Djelfa","Guettara","Messaad","Deldoul","SS","MGued","n",0,17,17
+85,17,"Djelfa","Guettara","Messaad","Deldoul","SS","Melaga","n",0,34.21718,3.3998
+86,17,"Djelfa","Guettara","Feid El Botma","Feid El Botma","PC","Feid El Botma","y",0,34.5283,3.7804
+87,17,"Djelfa","Guettara","Feid El Botma","Feid El Botma","SS","Aroudja","n",0,17,17
+88,17,"Djelfa","Guettara","Feid El Botma","Feid El Botma","SS","Bendaoud","n",0,17,17
+89,17,"Djelfa","Guettara","Messaad","Guettara","PC","Guettara","n",0,33.16053,4.68371
+90,17,"Djelfa","Guettara","Messaad","Guettara","SS","Bouiguella","n",0,17,17
+91,17,"Djelfa","Guettara","Feid El Botma","Oum Laadhame","SS","Gaaou","n",0,17,17
+92,17,"Djelfa","Guettara","Feid El Botma","Oum Laadhame","SS","Oum Laadame","n",0,33.72102,4.53067
+93,17,"Djelfa","Guettara","Feid El Botma","Oum Laadhame","SS","Oum Lihchime","n",0,17,17
+94,17,"Djelfa","Guettara","Messaad","Sed Rahal","PC","Sed Rahal","n",0,33.95521,3.23232
+95,17,"Djelfa","Guettara","Messaad","Sed Rahal","SS","Sagyet Djaidat","n",0,33.83454,3.24243
+96,17,"Djelfa","Guettara","Messaad","Sed Rahal","SS","Sed Rahal","n",0,17,17
+97,17,"Djelfa","Guettara","Messaad","Selmana","SS","Ghahra","n",0,34.1654,3.54816
+98,17,"Djelfa","Guettara","Messaad","Selmana","SS","Oum Legrad","n",0,34.22824,3.56758
+99,17,"Djelfa","Guettara","Messaad","Selmana","SS","Selmana","n",0,34.171507,3.5932
+100,17,"Djelfa","Guettara","Messaad","Selmana","SS","Zaouia","n",0,34.15827,3.55746
+101,17,"Djelfa","Guettara","Messaad","Selmana","SS","Bordj","n",0,34.19178,3.6713
+102,17,"Djelfa","Guettara","Messaad","Selmana","SS","Oum Lakheb","n",0,17,17
+103,17,"Djelfa","Guettara","Messaad","Selmana","SS","El Kharza","n",0,17,17
+104,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Ain Maabed","PC","Ain Maabed","y",0,34.801438,3.128682
+105,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Ain Maabed","SS","Rocher de Sel","n",0,34.868788,3.081545
+106,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Ain Maabed","SS","Djalalia","n",0,34.74962,3.151231
+107,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Dar Chioukh","PC","Dar Chioukh","y",0,34.895012,3.491309
+108,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Dar Chioukh","SS","El Merdja","n",0,34.920933,3.49406
+109,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Dar Chioukh","SS","EL Magtaa","n",0,34.90342,3.48623
+110,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Dar Chioukh","SS","Village Agricole","n",0,34.86588,3.44792
+111,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Dar Chioukh","SS","Akdis Si El Haous","n",0,34.89896,3.48986
+112,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Dar Chioukh","SS","Bouaichouia","n",0,34.77298,3.318101
+113,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","PC","Hassi Bahbah","n",0,35.073533,3.023837
+114,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","Mosrane","n",0,34.940181,3.055599
+115,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","Bouafia","n",0,35.061613,3.043724
+116,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","cité administrative","n",0,35.070239,3.029467
+117,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","Guendouz","n",0,35.07722,3.032204
+118,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","Hassi El Morra","n",0,35.004778,2.450156
+119,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","Monadhilines","n",0,35.0818,3.019479
+120,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","SS","Cité 540","n",0,35.080384,3.039058
+121,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi El Euch","PC","Hassi El Euch","n",0,35.154591,3.244179
+122,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi El Euch","SS","Farzoul","n",0,35.074057,3.205247
+123,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi El Euch","SS","Hassi El Euch","n",0,35.9179,3.143452
+124,17,"Djelfa","Hassi Bahbah","Dar Chioukh","MLiliha","PC","Mouilah","n",0,34.753629,3.481755
+125,17,"Djelfa","Hassi Bahbah","Dar Chioukh","MLiliha","PC","MLiliha","n",0,34.712277,3.764837
+126,17,"Djelfa","Hassi Bahbah","Dar Chioukh","MLiliha","SS","Daiat salloune","n",0,34.79308,3.53223
+127,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Sidi Baizid","SS","Guendouza","n",0,34.96921,3.44825
+128,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Sidi Baizid","SS","Djaiamaa","n",0,34.87796,3.39153
+129,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Sidi Baizid","SS","Sed Oum Draou","n",0,34.950268,3.287126
+130,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Sidi Baizid","SS","Sidi Baizid","n",0,35.056605,3.425565
+131,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Sidi Baizid","SS","Chouicha","n",0,35.01008,3.53996
+132,17,"Djelfa","Hassi Bahbah","Dar Chioukh","Sidi Baizid","SS","Ain El Ros","n",0,34.97889,3.48233
+133,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Zaafrane","PC","Zaafrane","n",0,34.850767,2.852877
+134,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Zaafrane","SS","Daiat El Boukhour","n",0,34.585033,2.344272
+135,17,"Djelfa","Messaad","Ain El Bel","Ain El Bel","PC","Ain El Bel","y",0,34.355606,3.22267
+136,17,"Djelfa","Messaad","Ain El Bel","Ain El Bel","SS","Amraa","n",0,34.375329,3.141031
+137,17,"Djelfa","Messaad","Ain El Bel","Ain El Bel","SS","Dzira","n",0,34.390887,3.24335
+138,17,"Djelfa","Messaad","Ain El Bel","Ain El Bel","SS","MTiriha","n",0,34.2135,3.1218
+139,17,"Djelfa","Messaad","Ain El Bel","Ain El Bel","SS","Ouled Sedar","n",0,34.2753,3.1357
+140,17,"Djelfa","Messaad","Ain El Bel","Ain El Bel","SS","El Djadida","n",0,34.356179,3.235138
+141,17,"Djelfa","Messaad","Messaad","Messaad","PC","Demed","n",0,34.16189,3.52607
+142,17,"Djelfa","Messaad","Messaad","Messaad","PC","Messaad","n",0,34.1544053,3.4931387
+143,17,"Djelfa","Messaad","Messaad","Messaad","PC","El Qods","n",0,34.173435,3.5024
+144,17,"Djelfa","Messaad","Messaad","Messaad","SS","Heniet Ouled Salem","n",0,34.1779,3.45669
+145,17,"Djelfa","Messaad","Messaad","Messaad","SS","El Moudjahidine","n",0,34.14902,3.49924
+146,17,"Djelfa","Messaad","Messaad","Messaad","SS","Heneit Kaabache","n",0,34.17789,3.45668
+147,17,"Djelfa","Messaad","Messaad","Messaad","SS","Nouaoura","n",0,34.16189,3.50612
+148,17,"Djelfa","Messaad","Messaad","Messaad","SS","Saafi","n",0,34.1588,3.51323
+149,17,"Djelfa","Messaad","Ain El Bel","Modjbara","PC","Modjbara","n",0,34.50254,3.47183
+150,17,"Djelfa","Messaad","Ain El Bel","Modjbara","SS","Ain Naga","n",0,34.344013,3.490371
+151,17,"Djelfa","Messaad","Ain El Bel","Modjbara","SS","Maalba","n",0,34.66061,3.40914
+152,17,"Djelfa","Messaad","Ain El Bel","Taadmit","PC","Taadmit","n",0,34.286501,2.985562
+153,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","MGuataa El Ouassat","n",0,34.241715,3.105681
+154,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Ben Hamed","n",0,34.358183,2.900983
+155,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Foures","n",0,34.32629,2.92648
+156,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Lohyouhi","n",0,34.36238,3.10329
+157,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Meguisba","n",0,34.29958,2.945752
+158,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Morhma","n",0,34.126128,3.080978
+159,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Enthila","n",0,34.04958,3.19851
+160,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Hiouhi","n",0,34.36249,3.10328
+161,17,"Djelfa","Messaad","Ain El Bel","Taadmit","SS","Tukersane","n",0,34.4130426,2.9039526
+162,17,"Djelfa","Messaad","Ain El Bel","Zakar","SS","Zakar","n",0,34.342583,3.328065
+163,17,"Djelfa","Djelfa","Djelfa","Djelfa","EPH","Mouhad Abdel Kader","n",386,34.342583,3.328065
+164,17,"Djelfa","Djelfa","Djelfa","Djelfa","EPH","Hathat Boubaker","n",260,34.342583,3.328065
+165,17,"Djelfa","Hassi Bahbah","Hassi Bahbah","Hassi Bahbah","EPH","Bougera Ahmed ","y",240,34.342583,3.328065
+166,17,"Djelfa","Ain Oussera","Ain Oussera","Ain Oussera","EPH","Saadaoui Mokhtar","y",146, 34.342583, 3.328065
+167,17,"Djelfa","Messaad","Messaad","Messaad","EPH","Hani Mohamed Benelhadi","y",212,34.342583,3.328065
+168,17,"Djelfa","Djelfa","Idrissia","Idrissia","EPH","Henichi Mostapha","y",120,34.342583,3.328065
+169,17,"Djelfa","Ain Oussera","Birine","Birine","EPH","EPH Birine","y",60,34.342583,3.328065
+170,17,"Djelfa","Djelfa","Djelfa","Djelfa","EHS","Kaki Mohamed","y",212,34.342583,3.328065
+171,17,"Djelfa","Djelfa","Djelfa","Djelfa","EHS","EHS Ophtalmologie","n",120,34.342583,3.328065
+172,17,"Djelfa","Djelfa","Djelfa","Djelfa","EHS","EHS CAC","n",0,34.342583,3.328065

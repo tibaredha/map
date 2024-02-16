@@ -1,0 +1,185 @@
+"ID","IDW","WILAYA","EPSP","DAIRA","COMMUNE","TYPE","STRUCTURE","MATERNITE","NBRLIT","LATITUDE","LONGITUDE"
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","PC","Ain-Defla centre","n",03,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","PC","MADANI Kortbi","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","PC","Bourached","n",03,0,0
+1,44,"Aindefla","Djelida","Djelida","Djelida","PC","Djelida","n",03,0,0
+1,44,"Aindefla","Djelida","Djelida","Djemaa OuledChikh","PC","Djemaa OuledChikh","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","El-Amra","PC","El-Amra","y",04,0,0
+1,44,"Aindefla","Djelida","El-Amra","Mekhatria","PC","Mekhatria","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Arib","PC","Arib","n",0,0,0
+1,44,"Aindefla","Djelida","Bathia","Hassania","PC","El-Hassania","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","Hay Khiat","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","Hay Mazouni","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","Feghailia","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","FeghialiaChlef","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","Ain-El Baidha","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","Zenadra","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","saidani","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","SS","Hay Kouadri","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","SS","Ouled Sidi Ahmed","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","SS","KoudietZeboudj","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","SS","OuledZiri","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","SS","OuledAttou","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","SS","Houaouria","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Bourached","SS","Selamnia","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Djelida","SS","village socialiste agricole (VSA)","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Djelida","SS","05 Juillet 62","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Djelida","SS","Ouled Ali Ouaguenay","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Djemaa OuledChikh","SS","Touaibia","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Djemaa OuledChikh","SS","Taghlissia","n",0,0,0
+1,44,"Aindefla","Djelida","Djelida","Djemaa OuledChikh","SS","Meraimia","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","El-Amra","SS","Drabla","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","El-Amra","SS","Louroud","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","El-Amra","SS","Hay El-Mostakbel","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","El-Amra","SS","Ziadir","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","El-Amra","SS","Teraia","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Mekhatria","SS","Sidi Lakhal","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Mekhatria","SS","Boukaabane","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Mekhatria","SS","Targhout","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Mekhatria","SS","Megharssa","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Mekhatria","SS","Hemadchia","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Arib","SS","Zaouia","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Arib","SS","Oued Beda","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Arib","SS","Oued El-Had","n",0,0,0
+1,44,"Aindefla","Djelida","El-Amra","Arib","SS","Mehara","n",0,0,0
+1,44,"Aindefla","Djelida","El-Hassania","Bathia","SS","BOUCHAIB","n",0,0,0
+1,44,"Aindefla","Djelida","El-Hassania","Bathia","SS","Yassoul","n",0,0,0
+1,44,"Aindefla","Djelida","El-Hassania","Bathia","SS","Sidi Ahmed Ben baatouche","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","PC","NadhirBouzar","n",05,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","PC","Miliana","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","PC","Zougala","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Ben Allel","PC","Ben Allel","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Hammam Righa","PC","Hammam Righa","n",01,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Torki","PC","Ain-Torki","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Beniane","PC","Ain-Beniane","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Boumedfaa","PC","Boumedfaa","y",04,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Hoceinia","PC","Hoceinia","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Boumedfaa","SS","BouabdellahBelkacem","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Boumedfaa","SS","Ain-Dem","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","SS","Hammama","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","SS","05 Juillet","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","SS","Ain-Barda","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","SS","Ain-Karma","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","SS","Larbi Mokhtar Brahim","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Ben Allel","SS","Bouhdoud","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Ben Allel","SS","Sidi Medjahed","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Ben Allel","SS","El-Mardja","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Hammam Righa","SS","Djebabra","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Torki","SS","Château Romain","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Torki","SS","TiziOuchi","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Torki","SS","Ain-Torki","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Torki","SS","feroudj","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Hammam Righa","Ain-Beniane","SS","Belouna","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Boumedfaa","SS","Moussa Abderrahmane","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Boumedfaa","SS","Ben Zeghaimi","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Boumedfaa","SS","Talaouine","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Hoceinia","SS","Oued Zeboudj","n",0,0,0
+1,44,"Aindefla","Boumedfaa","Boumedfaa","Hoceinia","SS","Belfares","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Khemis-Miliana","PC","Halaimi","n",05,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Khemis-Miliana","PC","Sidi Maamar","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Sidi Lakhder","PC","Sidi-Lakhder","y",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","Bordj Emir Khaled","PC","Bordj Emir Khaled","y",03,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","BirOueldKhelifa","PC","BirOueldKhelifa","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","Tarik Ibn Ziad","PC","Tarik Ibn Ziad","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","PC","Djendel","y",06,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Birbouche","PC","Birbouche","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Oued Chorfa","PC","Oued Chorfa","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Lechiakh","PC","Ain-Lechiakh","n",03,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Soltane","PC","Ain-Soltane","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Oued Djemaa","PC","Oued Djemaa","n",0,0,0 
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Soltane","SS","Ouled Belgacem","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Khemis-Miliana","SS","Souamaa","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Khemis-Miliana","SS","Hay El-Wiam","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Khemis-Miliana","SS","Hay Essalem","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Sidi Lakhder","SS","Sidi Omar","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Khemis-Miliana","Sidi Lakhder","SS","Sidi Benbrika","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","Bordj Emir Khaled","SS","Oued Massine","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","Bordj Emir Khaled","SS","Said","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","Bordj Emir Khaled","SS","Louata","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","BirOueldKhelifa","SS","OuledSlimene","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","BirOueldKhelifa","SS","El Ghraikia","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Bordj Emir Khaled","Tarik Ibn Ziad","SS","Tanout","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","SS","Ouled Abbes","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","SS","Sidi Djelloul","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","SS","05 Juillet","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","SS","Sidi Mosbah","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","SS","Sidi Nacer","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Djendel","SS","Soualah","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Birbouche","SS","OuledNouel","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Oued Chorfa","SS","DjillaliBounaama","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Oued Chorfa","SS","Amourah","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Oued Chorfa","SS","Zenadia","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Djendel","Oued Chorfa","SS","Chehaimia","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Lechiakh","SS","DouiHassni","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Lechiakh","SS","Taktaka","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Lechiakh","SS","Kechroud","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Soltane","SS","Oued Chaiba","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Soltane","SS","Ouled Salem","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Soltane","SS","Djehabla","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Ain-Soltane","SS","Oued Helil","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Oued Djemaa","SS","village socialiste agricole (VSA)","n",0,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Oued Djemaa","SS","Ali Khodja","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","PC","El-Attaf","n",04,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","El-Abadia","PC","El-Abadia","y",04,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","PC","Tacheta","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Ain-Bouyahia","PC","Ain-Bouyahia","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Rouina","PC","Rouina","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","PC","Zeddine","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","El-Mayen","PC","El-Mayen","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Bathia","PC","Bathia","n",03,0,0 
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Belaas","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","Tiberkanine","SS","Tiberkanine","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","SS","ZEMALA","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","SS","village socialiste agricole (VSA)","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","SS","ChikhBenyahia","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","SS","08 Mai 1945","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","SS","OuledZitouni","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","Tiberkanine","SS","Hadjadj","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","Tiberkanine","SS","Rouabeh","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","Tiberkanine","SS","Ouled Ali","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","Tiberkanine","SS","Meramdia","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","El-Abadia","SS","Sidi Amar","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","El-Abadia","SS","Ababsa","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","El-Abadia","SS","Chorfa","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","El-Abadia","SS","Tadhamoune","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","El-Abadia","SS","Chekaknia","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Ouled Bassa","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Ouled Sidi Larbi","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Khaouet El-Khemis","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Khebabza","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Ouled Ali","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Ain-Louza","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","ouledmaafa","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","Ouled Bouali","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Tachta","SS","El Ayoune","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Ain-Bouyahia","SS","Bouarous","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Ain-Bouyahia","SS","Zekakra","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Ain-Bouyahia","SS","Saidia","n",0,0,0
+1,44,"Aindefla","El-Abadia","El-Abadia","Ain-Bouyahia","SS","Adjialia","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Rouina","SS","Ouled Larbi","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Rouina","SS","Gare Sidi Hamou","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Rouina","SS","Saidia","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Rouina","SS","Rouina Mines","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Rouina","SS","El-Ghemour","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","SS","Ouled Sidi Yahia","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","SS","El-Ayoune","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","SS","Akailia","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","SS","Ancien Zeddine","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","SS","OuledDjillali","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","Zeddine","SS","OuledBerahma","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","El-Mayen","SS","Mokhfi","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","El-Mayen","SS","El-Merdja","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","El-Mayen","SS","OuledBendou (Djouahra)","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","El-Mayen","SS","OuledMouna","n",0,0,0
+1,44,"Aindefla","El-Abadia","Rouina","El-Mayen","SS","Al Maleh","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Tafrent","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Si  Khaled","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Karnacha","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Sidi Bouziane","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Kherfia","n",0,0,0
+1,44,"Aindefla","El-Abadia","Bathia","Belaas","SS","Beni Ahcène","n",0,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","EPH","MAKOUR Hamou","y",0314,0,0
+1,44,"Aindefla","Ain-Lechiakh","Ain-Lechiakh","Khemis-Miliana","EPH","LATRACHE Ahmed","y",0196,0,0
+1,44,"Aindefla","Boumedfaa","Miliana","Miliana","EPH","FARES Yahia","y",0284,0,0
+1,44,"Aindefla","El-Abadia","El-Attaf","El-Attaf","EPH","El-Attaf","y",0192,0,0
+1,44,"Aindefla","Djelida","Ain-Defla","Ain-Defla","EHS","","n",0,0,0

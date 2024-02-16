@@ -1,0 +1,25 @@
+\newpage
+
+# Algerie
+
+## Algerie
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Algerie",fig.height=6, fig.width=6}
+fct(dz,ir,subtitle="Algerie",caption)
+```
+
+
+
+## Wilaya Algerie
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Wilayas Algerie",fig.height=6, fig.width=6}
+fct(dzw,ir,subtitle="Wilayas algerie",caption)
+
+```
+
+## Communes Algerie
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Communes Wilaya Algerie",fig.height=6, fig.width=6}
+fct(dzc,ir,subtitle="Communes algerie",caption)
+```
+

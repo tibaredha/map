@@ -1,0 +1,254 @@
+"ID","IDW","WILAYA","EPSP","DAIRA","COMMUNE","TYPE","STRUCTURE","MATERNITE","NBRLIT","LATITUDE","LONGITUDE"
+1,28,"Msila","Msila","Msila","Msila","PC","500 LOGTS","n",0,0 ,0
+2,28,"Msila","Msila","Msila","Msila","PC","300 LOGTS","n",0,0 ,0
+3,28,"Msila","Msila","Msila","Msila","PC","ICHEBILIA","n",0,0,0
+4,28,"Msila","Msila","Msila","Msila","PC","DILMI ALI (346 LOTS)","n",6,0,0
+5,28,"Msila","Msila","Msila","Msila","PC","BOUKHMISSA","n",0,0,0
+6,28,"Msila","Msila","chellal","chellal","PC","chellal","n",04,0,0
+7,28,"Msila","Msila","chellal","ouled madhi","PC","ouled madhi","n",0,0,0
+8,28,"Msila","Msila","hdalaa","hdalaa","PC","Hammam dalaa nvelle","y",06,0,0
+9,28,"Msila","Msila","hdalaa","hdalaa","PC","Hammam dalaa ancien","n",0,0,0
+10,28,"Msila","Msila","hdalaa","tarmount","PC","tarmount","n",06,0 ,0
+11,28,"Msila","Msila","ouled derradj","mtarfa","PC","DIALEM","n",06,0,0
+12,28,"Msila","Msila","Msila","Msila","SS","GHEZAL","n",0,0,0
+13,28,"Msila","Msila","Msila","Msila","SS","MEZRIR","n",0,0,0
+14,28,"Msila","Msila","Msila","Msila","SS","OULED SLAMA","n",0,0,0
+15,28,"Msila","Msila","Msila","Msila","SS","SED KSOB","n",0,0,0
+16,28,"Msila","Msila","Msila","Msila","SS","DJAAFRA","n",0,0,0
+17,28,"Msila","Msila","Msila","Msila","SS","MOUILHA","n",0,0,0
+18,28,"Msila","Msila","Msila","Msila","SS","05 JUILLET","n",0,0,0
+19,28,"Msila","Msila","Msila","Msila","SS","LEMDJAZ","n",0,0,0
+20,28,"Msila","Msila","Msila","Msila","SS","SONITEX","n",0,0,0
+21,28,"Msila","Msila","Msila","Msila","SS","LAROCADE","n",0,0,0
+22,28,"Msila","Msila","Msila","Msila","SS","SIDI AMMARA","n",0,0,0
+23,28,"Msila","Msila","ouled derradj","mtarfa","SS","BECHILGUA","n",0,0,0
+24,28,"Msila","Msila","ouled derradj","mtarfa","SS","LOUIZA","n",0,0,0
+25,28,"Msila","Msila","ouled derradj","mtarfa","SS","RETBA","n",0,0,0
+26,28,"Msila","Msila","ouled derradj","mtarfa","SS","NOUARA","n",0,0,0
+27,28,"Msila","Msila","ouled derradj","mtarfa","SS","MECHTA AMROUNE","n",0,0,0
+28,28,"Msila","Msila","ouled derradj","mtarfa","SS","ZOUAOULA","n",0,0,0
+29,28,"Msila","Msila","ouled derradj","souamaa","SS","BOUHMADOU","n",0,0,0
+30,28,"Msila","Msila","ouled derradj","souamaa","SS","souamaa","n",0,0,0
+31,28,"Msila","Msila","ouled derradj","souamaa","SS","KHEBBAB","n",0,0,0
+32,28,"Msila","Msila","ouled derradj","souamaa","SS","LOUASSA","n",0,0,0
+33,28,"Msila","Msila","chellal","chellal","SS","LAAMARAT","n",0,0,0
+34,28,"Msila","Msila","chellal","ouled madhi","SS","BAYADHA","n",0,0,0
+34,28,"Msila","Msila","chellal","ouled madhi","SS","SAIDA","n",0,0,0
+35,28,"Msila","Msila","chellal","ouled madhi","SS","OULED ABDELLAH","n",0,0,0
+36,28,"Msila","Msila","hdalaa","hdalaa","SS","BOURACHED","n",0,0,0
+37,28,"Msila","Msila","hdalaa","hdalaa","SS","HAOURANE","n",0,0,0
+38,28,"Msila","Msila","hdalaa","hdalaa","SS","EL GUEREF","n",0,0,0
+39,28,"Msila","Msila","hdalaa","hdalaa","SS","DEBIL","n",0,0,0
+40,28,"Msila","Msila","hdalaa","hdalaa","SS","BOUIRA","n",0,0,0
+41,28,"Msila","Msila","hdalaa","hdalaa","SS","GUETTAF","n",0,0,0
+42,28,"Msila","Msila","hdalaa","hdalaa","SS","DAR KEBIRA","n",0,0,0
+43,28,"Msila","Msila","hdalaa","hdalaa","SS","DAR SEGHIRA","n",0,0,0
+44,28,"Msila","Msila","hdalaa","hdalaa","SS","BIR MADHI","n",0,0,0
+45,28,"Msila","Msila","hdalaa","hdalaa","SS","DHOKARA","n",0,0,0
+46,28,"Msila","Msila","hdalaa","hdalaa","SS","ZITOUTE","n",0,0,0
+47,28,"Msila","Msila","hdalaa","hdalaa","SS","DJER HAOUAS","n",0,0,0
+48,28,"Msila","Msila","hdalaa","tarmount","SS","OUM CHOUACHI","n",0,0,0
+49,28,"Msila","Msila","hdalaa","tarmount","SS","BIR LEHLOU","n",0,0,0
+50,28,"Msila","Msila","hdalaa","ouled mansour","SS","OUELD MANSOUR","n",0,0,0
+51,28,"Msila","Msila","hdalaa","ouled mansour","SS","LOGMAINE","n",0,0,0
+52,28,"Msila","Msila","hdalaa","ouled mansour","SS","OULED HALES","n",0,0,0
+53,28,"Msila","Msila","hdalaa","ouled mansour","SS","FARKOUS AMOKRANE","n",0,0,0
+54,28,"Msila","Bousaada","Bousaada","Bousaada","PC","Gueni mokhtar","n",06,0,0
+55,28,"Msila","Bousaada","Bousaada","Bousaada","PC","Melki amar","n",04,0,0
+56,28,"Msila","Bousaada","Bousaada","Bousaada","PC","Dachra gueblia","n",0,0,0
+57,28,"Msila","Bousaada","Bousaada","Bousaada","PC","Dachra dahraouia","n",0,0,0
+58,28,"Msila","Bousaada","Bousaada","EL HAMEL","PC","El hamel","y",06,0,0
+59,28,"Msila","Bousaada","sidi ameur","sidi ameur","PC","Sidi ameur","y",06,0,0
+60,28,"Msila","Bousaada","sidi ameur","TAMSA","PC","Tamsa","n",0,0,0
+61,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","PC","Ouled sidi brahim","y",04,0,0
+62,28,"Msila","Bousaada","ouled sidi brahim","BEN ZOUH","PC","Ben zouh","n",0,0,0
+63,28,"Msila","Bousaada","medjadel","medjadel","PC","medjadel","y",06,0,0
+64,28,"Msila","Bousaada","medjadel","MENAA","PC","Menaa","y",0,0,0
+65,28,"Msila","Bousaada","chellal","MAARIF","PC","Maarif","n",0,0,0
+66,28,"Msila","Bousaada","Bousaada","Bousaada","SS","KAISSA","n",0,0,0
+67,28,"Msila","Bousaada","Bousaada","Bousaada","SS","MAADHER","n",0,0,0
+68,28,"Msila","Bousaada","Bousaada","Bousaada","SS","BATEN","n",0,0,0
+69,28,"Msila","Bousaada","Bousaada","Bousaada","SS","SIDI SLIMANE","n",0,0,0
+70,28,"Msila","Bousaada","Bousaada","Bousaada","SS","MAITAR","n",0,0,0
+71,28,"Msila","Bousaada","Bousaada","Bousaada","SS","20 AOUT","n",0,0,0
+72,28,"Msila","Bousaada","Bousaada","Bousaada","SS","HAI CHAABANI","n",0,0,0
+73,28,"Msila","Bousaada","Bousaada","Bousaada","SS","SIDI THAMEUR","n",0,0,0
+74,28,"Msila","Bousaada","Bousaada","EL HAMEL","SS","RAS EL AIN EL HAMEL ","n",0,0,0
+75,28,"Msila","Bousaada","Bousaada","EL HAMEL","SS","DERRAOUIS","n",0,0,0
+76,28,"Msila","Bousaada","Bousaada","EL HAMEL","SS","MAGTAA","n",0,0,0
+77,28,"Msila","Bousaada","Bousaada","OULTEM","SS","OULTEM","n",0,0,0
+78,28,"Msila","Bousaada","Bousaada","OULTEM","SS","EL ALLIG","n",0,0,0
+79,28,"Msila","Bousaada","ouled sidi brahim","BEN ZOUH","SS","DRAA ATINE","n",0,0,0
+80,28,"Msila","Bousaada","ouled sidi brahim","BEN ZOUH","SS","SED KHERMAME","n",0,0,0
+81,28,"Msila","Bousaada","ouled sidi brahim","BEN ZOUH","SS","AIN KHERMAME","n",0,0,0
+82,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","SS","AIN HANECH","n",0,0,0
+83,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","SS","MED SEDDIK BEN YAHIA","n",0,0,0
+84,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","SS","LOUBIR","n",0,0,0
+85,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","SS","BIR SEDDIK","n",0,0,0
+86,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","SS","LAOUICHET","n",0,0,0
+87,28,"Msila","Bousaada","ouled sidi brahim","ouled sidi brahim","SS","EL AIDINE","n",0,0,0
+88,28,"Msila","Bousaada","sidi ameur","sidi ameur","SS","KHARZA","n",0,0,0
+89,28,"Msila","Bousaada","sidi ameur","sidi ameur","SS","BALLAROUG","n",0,0,0
+90,28,"Msila","Bousaada","sidi ameur","sidi ameur","SS","SAGUIA","n",0,0,0
+91,28,"Msila","Bousaada","sidi ameur","sidi ameur","SS","AIN SBAA","n",0,0,0
+92,28,"Msila","Bousaada","sidi ameur","TAMSA","SS","BOUTMAT","n",0,0,0
+93,28,"Msila","Bousaada","sidi ameur","TAMSA","SS","AIN EL KAHLA","n",0,0,0
+95,28,"Msila","Bousaada","medjadel","medjadel","SS","HAI EL AIDINE","n",0,0,0
+96,28,"Msila","Bousaada","medjadel","medjadel","SS","LOUIBDA","n",0,0,0
+97,28,"Msila","Bousaada","medjadel","MENAA","SS","HAI SALEM","n",0,0,0
+98,28,"Msila","Bousaada","chellal","MAARIF","SS","MAARIF ancien","n",0,0,0
+99,28,"Msila","Bousaada","chellal","MAARIF","SS","DEHADHIA","n",0,0,0
+100,28,"Msila","Bousaada","chellal","MAARIF","SS","BANIOU","n",0,0,0
+101,28,"Msila","Bousaada","chellal","MAARIF","SS","OULED MAATOUG","n",0,0,0
+102,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","PC","Sidi Aissa 1","n",04,0,0
+103,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","PC","Sidi Aissa 2","n",0,0,0
+104,28,"Msila","Sidi Aissa","Sidi Aissa","ben ilmene","PC","Ben ilmene","n",06,0,0
+105,28,"Msila","Sidi Aissa","Ain El Hdjel","bouti sayah","PC","bouti sayah","n",0,0,0
+106,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","PC","Ain El Hdjel N°01","n",0,0,0
+107,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","PC","Ain El Hdjel N°02","y",0,0,0
+108,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","PC","Ain El Hdjel NVELLE","n",06,0,0
+109,28,"Msila","Sidi Aissa","Ain El Hdjel","sidi hadjres","PC","sidi hadjres","n",0,0,0
+110,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","PC","khatouti sed el djir","n",0,0,0
+111,28,"Msila","Sidi Aissa","hdalaa","ouanougha","PC","Ouanougha","y",06,0,0
+112,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","Sidi Aissa CENTRE (AMG)","n",0,0,0
+113,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","DJAFRA","n",0,0,0
+114,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","BEN DIAB","n",0,0,0
+115,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","ENI-HMID","n",0,0,0
+116,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","ARA","n",0,0,0
+117,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","KOUADRIA","n",0,0,0
+118,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","SS","9 JUIN","n",0,0,0
+119,28,"Msila","Sidi Aissa","Sidi Aissa","ben ilmene","SS","CHARCHARA","n",0,0,0
+120,28,"Msila","Sidi Aissa","Sidi Aissa","bouti sayah","SS","E GUETFA","n",0,0,0
+121,28,"Msila","Sidi Aissa","Sidi Aissa","bouti sayah","SS","bouti sayah","n",0,0,0
+122,28,"Msila","Sidi Aissa","Sidi Aissa","bouti sayah","SS","O.ALI .BEN DAOUD","n",0,0,0
+123,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","SS","HADJRA SAFRA","n",0,0,0
+124,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","SS","O.ALI","n",0,0,0
+125,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","SS","O.MOULAHOUM","n",0,0,0
+126,28,"Msila","Sidi Aissa","Ain El Hdjel","Ain El Hdjel","SS","OULED SOUYEB","n",0,0,0
+127,28,"Msila","Sidi Aissa","Ain El Hdjel","sidi hadjres","SS","STAH","n",0,0,0
+128,28,"Msila","Sidi Aissa","Ain El Hdjel","sidi hadjres","SS","OULED.TOUATI","n",0,0,0
+129,28,"Msila","Sidi Aissa","Ain El Hdjel","sidi hadjres","SS","DJELF EL KARMA","n",0,0,0
+130,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","SS","MERAZGUIA","n",0,0,0
+131,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","SS","DIALEM","n",0,0,0
+132,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","SS","REGUIEG","n",0,0,0
+133,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","SS","TOUBIACHA","n",0,0,0
+134,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","SS","TRAIBA","n",0,0,0
+135,28,"Msila","Sidi Aissa","chellal","khatouti sed el djir","SS","FARKOUSSA KAHLA","n",0,0,0
+136,28,"Msila","Sidi Aissa","hdalaa","ouanougha","SS","AHL EL OUED","n",0,0,0
+137,28,"Msila","Sidi Aissa","hdalaa","ouanougha","SS","MAROUANE","n",0,0,0
+138,28,"Msila","Sidi Aissa","hdalaa","ouanougha","SS","OULED MSELM","n",0,0,0
+139,28,"Msila","Sidi Aissa","hdalaa","ouanougha","SS","MEKMENE","n",0,0,0
+140,28,"Msila","Sidi Aissa","hdalaa","ouanougha","SS","Sidi Aissa (OUANN)","n",0,0,0
+141,28,"Msila","Sidi Aissa","hdalaa","ouanougha","SS","FOUATEH","n",0,0,0
+142,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","PC","Les jardins","n",06,0,0
+143,28,"Msila","Ain El Melh","Ain El Melh","ain rich","PC","Ain rich","n",06,0,0
+144,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","PC","Sidi mhamed","n",0,0,0
+145,28,"Msila","Ain El Melh","Ain El Melh","bir fodda","PC","Bir fodda","n",0,0,0
+146,28,"Msila","Ain El Melh","Ain El Melh","AIN FARES","PC","Ain fares","n",0,0,0
+147,28,"Msila","Ain El Melh","Djebal Messaad","Djebal Messaad","PC","Ben amor med","y",06,0,0
+148,28,"Msila","Ain El Melh","Djebal Messaad","SLIM","PC","Slim","n",06,0,0
+149,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","SS","OUARIR","n",0,0,0
+150,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","SS","BASSATINE","n",0,0,0
+151,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","SS","100LOGTS","n",0,0,0
+152,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","SS","324 LOT","n",0,0,0
+153,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","SS","70 LOGTS","n",0,0,0
+154,28,"Msila","Ain El Melh","Ain El Melh","ain rich","SS","BASSATINE","n",0,0,0
+155,28,"Msila","Ain El Melh","Ain El Melh","ain rich","SS","RAS EL AIN","n",0,0,0
+156,28,"Msila","Ain El Melh","Ain El Melh","ain rich","SS","KAMRA","n",0,0,0
+157,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","SS","ZEBARA","n",0,0,0
+158,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","SS","VILLAGE AGRICOLE","n",0,0,0
+159,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","SS","AIN SIDI M’HAMED","n",0,0,0
+160,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","SS","BETHAA","n",0,0,0
+161,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","SS","HACHAD","n",0,0,0
+162,28,"Msila","Ain El Melh","Ain El Melh","sidi mhamed","SS","DAR BEN MIHOUB","n",0,0,0
+163,28,"Msila","Ain El Melh","Ain El Melh","bir fodda","SS","MGUITAA bir fodda","n",0,0,0
+164,28,"Msila","Ain El Melh","Ain El Melh","bir fodda","SS","TIGHRIZINE","n",0,0,0
+165,28,"Msila","Ain El Melh","Ain El Melh","AIN FARES","SS","AIN EL ALLEG","n",0,0,0
+166,28,"Msila","Ain El Melh","Ain El Melh","AIN FARES","SS","OULED ATTIA","n",0,0,0
+167,28,"Msila","Ain El Melh","Djebal Messaad","Djebal Messaad","SS","SMARA","n",0,0,0
+168,28,"Msila","Ain El Melh","Djebal Messaad","Djebal Messaad","SS","TRAIFIA","n",0,0,0
+169,28,"Msila","Ain El Melh","Djebal Messaad","Djebal Messaad","SS","TOUAB","n",0,0,0
+170,28,"Msila","Ain El Melh","Djebal Messaad","SLIM","SS","AIN MEGARNEZ","n",0,0,0
+171,28,"Msila","Ain El Melh","Djebal Messaad","SLIM","SS","HASSI OUADHANE","n",0,0,0
+172,28,"Msila","Ben Srour","Ben Srour","Ben Srour","PC","Ben Srour","n",0,0,0
+173,28,"Msila","Ben Srour","Ben Srour","MED BOUDIAF","PC","Med boudiaf","y",0,0,0
+174,28,"Msila","Ben Srour","Ben Srour","OULED SLIMANE","PC","Ouled slimane","n",0,0,0
+175,28,"Msila","Ben Srour","khoubana","khoubana","PC","khoubana","n",04,0,0
+176,28,"Msila","Ben Srour","khoubana","MCIF","PC","Mcif","n",06,0,0
+177,28,"Msila","Ben Srour","khoubana","HOUAMED","PC","Houamed","n",06,0,0
+178,28,"Msila","Ben Srour","Ben Srour","Ben Srour","SS","Ben Srour","n",0,0,0
+179,28,"Msila","Ben Srour","Ben Srour","Ben Srour","SS","AIN GHEZAL","n",0,0,0
+180,28,"Msila","Ben Srour","Ben Srour","zarzour","SS","zarzour","n",0,0,0
+181,28,"Msila","Ben Srour","Ben Srour","zarzour","SS","MEGESEM","n",0,0,0
+182,28,"Msila","Ben Srour","Ben Srour","MED BOUDIAF","SS","RAS EL OUED","n",0,0,0
+183,28,"Msila","Ben Srour","Ben Srour","MED BOUDIAF","SS","OGAB","n",0,0,0
+184,28,"Msila","Ben Srour","Ben Srour","MED BOUDIAF","SS","BOUMLAL","n",0,0,0
+185,28,"Msila","Ben Srour","Ben Srour","HOUAMED","SS","OUM CHEMEN","n",0,0,0
+186,28,"Msila","Ben Srour","Ben Srour","HOUAMED","SS","ROUMANA NORD","n",0,0,0
+187,28,"Msila","Ben Srour","khoubana","khoubana","SS","khoubana","n",0,0,0
+188,28,"Msila","Ben Srour","khoubana","khoubana","SS","SIDI SAID","n",0,0,0
+189,28,"Msila","Ben Srour","khoubana","MCIF","SS","BIR EL ARBI","n",0,0,0
+190,28,"Msila","Ben Srour","khoubana","MCIF","SS","BIR GUELLALIA","n",0,0,0
+191,28,"Msila","Magra","Magra","Magra","PC","Magra","n",0,0,0
+192,28,"Msila","Magra","Magra","barhoum","PC","Barhoum","y",06,0,0
+193,28,"Msila","Magra","Magra","belaiba","PC","Belaiba","n",0,0,0
+194,28,"Msila","Magra","Magra","dehahna","PC","Dehahna","n",0,0,0
+195,28,"Msila","Magra","Magra","ain el khadra","PC","Ain el khadra","n",06,0,0
+196,28,"Msila","Magra","ouled derradj","ouled derradj","PC","Ouled derradj","y",06,0,0
+197,28,"Msila","Magra","ouled derradj","ouled addi guebela","PC","Ouled addi guebela","n",06,0,0
+198,28,"Msila","Magra","ouled derradj","maadid","PC","Maadid","n",04,0,0
+199,28,"Msila","Magra","ouled derradj","maadid","PC","Zitoune","n",0,0,0
+200,28,"Msila","Magra","Magra","Magra","SS","OUADEH","n",0,0,0
+201,28,"Msila","Magra","Magra","Magra","SS","ouled mansour","n",0,0,0
+202,28,"Msila","Magra","Magra","Magra","SS","OUED MEBAREK","n",0,0,0
+203,28,"Msila","Magra","Magra","Magra","SS","MERABAA","n",0,0,0
+204,28,"Msila","Magra","Magra","Magra","SS","OULED ARIBA","n",0,0,0
+205,28,"Msila","Magra","Magra","belaiba","SS","THENIAT CHARA","n",0,0,0
+206,28,"Msila","Magra","Magra","belaiba","SS","OULED KHENFAR","n",0,0,0
+207,28,"Msila","Magra","Magra","belaiba","SS","INTER SECTION","n",0,0,0
+208,28,"Msila","Magra","Magra","belaiba","SS","OULED BELHOUT","n",0,0,0
+209,28,"Msila","Magra","Magra","belaiba","SS","OULEDZEMIRA","n",0,0,0
+210,28,"Msila","Magra","Magra","belaiba","SS","OUED MEBAREK","n",0,0,0
+211,28,"Msila","Magra","Magra","ain el khadra","SS","OULED SIDI AMOR","n",0,0,0
+212,28,"Msila","Magra","Magra","ain el khadra","SS","OULED BEN AMOR","n",0,0,0
+213,28,"Msila","Magra","Magra","ain el khadra","SS","SOUALEH","n",0,0,0
+214,28,"Msila","Magra","Magra","ain el khadra","SS","LAMKHAREG","n",0,0,0
+215,28,"Msila","Magra","Magra","ain el khadra","SS","OULED ATHMANE","n",0,0,0
+216,28,"Msila","Magra","Magra","ain el khadra","SS","OULED CHERIK","n",0,0,0
+217,28,"Msila","Magra","Magra","ain el khadra","SS","ZERARKA","n",0,0,0
+218,28,"Msila","Magra","Magra","ain el khadra","SS","OULED EL HADJ","n",0,0,0
+219,28,"Msila","Magra","Magra","dehahna","SS","dehahna","n",0,0,0
+220,28,"Msila","Magra","Magra","dehahna","SS","OULED BRAHIM","n",0,0,0
+221,28,"Msila","Magra","Magra","dehahna","SS","OULED KHELIF","n",0,0,0
+222,28,"Msila","Magra","Magra","dehahna","SS","OULED SI YAHIA","n",0,0,0
+223,28,"Msila","Magra","Magra","dehahna","SS","MENAIFA","n",0,0,0
+224,28,"Msila","Magra","Magra","dehahna","SS","OULED SAID","n",0,0,0
+225,28,"Msila","Magra","Magra","dehahna","SS","GUETATCHA","n",0,0,0
+226,28,"Msila","Magra","Magra","barhoum","SS","LEGHRAIB","n",0,0,0
+227,28,"Msila","Magra","Magra","barhoum","SS","OULED ALI BEN RABEH","n",0,0,0
+228,28,"Msila","Magra","Magra","barhoum","SS","LAHLALET","n",0,0,0
+229,28,"Msila","Magra","Magra","barhoum","SS","OULED MERZOUG","n",0,0,0
+230,28,"Msila","Magra","ouled derradj","ouled derradj","SS","OULED BEN SAOUCHA","n",0,0,0
+231,28,"Msila","Magra","ouled derradj","ouled derradj","SS","BRAKTIA","n",0,0,0
+232,28,"Msila","Magra","ouled derradj","ouled derradj","SS","EL DJORF","n",0,0,0
+233,28,"Msila","Magra","ouled derradj","ouled addi guebela","SS","OULED GUASMIA","n",0,0,0
+234,28,"Msila","Magra","ouled derradj","ouled addi guebela","SS","OULED BIYA","n",0,0,0
+235,28,"Msila","Magra","ouled derradj","ouled addi guebela","SS","TOLBA","n",0,0,0
+236,28,"Msila","Magra","ouled derradj","ouled addi guebela","SS","MAATIG","n",0,0,0
+237,28,"Msila","Magra","ouled derradj","ouled addi guebela","SS","EL BRABRA","n",0,0,0
+238,28,"Msila","Magra","ouled derradj","maadid","SS","DJÄOUNA maadid","n",0,0,0
+239,28,"Msila","Magra","ouled derradj","maadid","SS","RACHANA","n",0,0,0
+240,28,"Msila","Magra","ouled derradj","maadid","SS","EL KHALOUA","n",0,0,0
+241,28,"Msila","Magra","ouled derradj","maadid","SS","EL GHILL","n",0,0,0
+242,28,"Msila","Magra","ouled derradj","maadid","SS","HAMMAM SEMAIR","n",0,0,0
+243,28,"Msila","Magra","ouled derradj","maadid","SS","OULED SIDI MANSOUR","n",0,0,0
+244,28,"Msila","Magra","ouled derradj","maadid","SS","BOUIRA","n",0,0,0
+245,28,"Msila","Magra","ouled derradj","maadid","SS","TABIA","n",0,0,0
+246,28,"Msila","Ain El Melh","Ain El Melh","Ain El Melh","EPH","Ain El Melh","y",240,0,0
+247,28,"Msila","Bousaada","Bousaada","Bousaada","EPH","Bou-saada","y",240,0,0
+248,28,"Msila","Msila","Msila","Msila","EPH","Msila","n",240,0,0
+249,28,"Msila","Magra","Magra","Magra","EPH","Magra","y",60,0,0
+250,28,"Msila","Ben Srour","Ben Srour","Ben Srour","EPH","Ben Srour","y",60,0,0
+251,28,"Msila","Sidi Aissa","Sidi Aissa","Sidi Aissa","EPH","Sidi Aissa","y",240,0,0
+252,28,"Msila","Msila","Msila","Msila","EHS","mere et enfants Slimane Amiret","y",64,0,0
+253,28,"Msila","Msila","hdalaa","ouled mansour","EHS","psychiatrique ouled mansour","n",120,0,0

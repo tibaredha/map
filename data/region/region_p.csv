@@ -1,0 +1,31 @@
+"","ID","IDW","WILAYA","GRADE","CHU","EPH","EHS","EH","EPSP"
+"1",1,2,"Chlef","Praticien spécialiste assistant de santé publique",0,281,13,0,0
+"2",2,2,"Chlef","Praticien généraliste de santé publique",0,728,9,0,0
+"3",3,2,"Chlef","Infirmier de santé publique",0,1100,13,0,0
+"4",3,2,"Chlef","Sage-femme de santé publique",0,240,0,0,0
+"5",3,2,"Chlef","Auxiliaire Médical en Anesthésie Réanimation de santé publique",0,72,0,0,0
+"6",1,44,"Aindefla","Praticien spécialiste assistant de santé publique",0,231,0,0,0
+"7",2,44,"Aindefla","Praticien généraliste de santé publique",0,183,0,0,0
+"8",3,44,"Aindefla","Infirmier de santé publique",0,840,0,0,0
+"9",3,44,"Aindefla","Sage-femme de santé publique",0,136,0,0,0
+"10",3,44,"Aindefla","Auxiliaire Médical en Anesthésie Réanimation de santé publique",0,92,0,0,0
+"11",1,26,"Medea","Praticien spécialiste assistant de santé publique",0,0,0,0,0
+"12",2,26,"Medea","Praticien généraliste de santé publique",0,0,0,0,0
+"13",3,26,"Medea","Infirmier de santé publique",0,766,0,0,557
+"14",3,26,"Medea","Sage-femme de santé publique",0,199,0,0,130
+"15",3,26,"Medea","Auxiliaire Médical en Anesthésie Réanimation de santé publique",0,87,0,0,5
+"16",1,17,"Djelfa","Praticien spécialiste assistant de santé publique",0,0,0,0,0
+"17",2,17,"Djelfa","Praticien généraliste de santé publique",0,0,0,0,0
+"18",3,17,"Djelfa","Infirmier de santé publique",0,0,0,0,0
+"19",3,17,"Djelfa","Sage-femme de santé publique",0,0,0,0,0
+"20",3,17,"Djelfa","Auxiliaire Médical en Anesthésie Réanimation de santé publique",0,0,0,0,0
+"21",1,3,"Laghouat","Praticien spécialiste assistant de santé publique",0,195,40,0,10
+"22",2,3,"Laghouat","Praticien généraliste de santé publique",0,136,48,0,352
+"23",3,3,"Laghouat","Infirmier de santé publique",0,353,44,0,345
+"24",3,3,"Laghouat","Sage-femme de santé publique",0,13,72,0,97
+"25",3,3,"Laghouat","Auxiliaire Médical en Anesthésie Réanimation de santé publique",0,26,15,0,0
+"26",1,28,"Msila","Praticien spécialiste assistant de santé publique",0,0,0,0,0
+"27",2,28,"Msila","Praticien généraliste de santé publique",0,0,0,0,0
+"28",3,28,"Msila","Infirmier de santé publique",0,0,0,0,0
+"29",3,28,"Msila","Sage-femme de santé publique",0,0,0,0,0
+"30",3,28,"Msila","Auxiliaire Médical en Anesthésie Réanimation de santé publique",0,0,0,0,0
