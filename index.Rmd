@@ -1,0 +1,575 @@
+---
+title: ""
+subtitle: ""
+author: ""
+date: ""
+geometry: "left=2cm,right=2cm,top=1cm,bottom=1.5cm"
+output:
+  pdf_document:
+    df_print: kable
+    toc: true
+    toc_depth: 3
+    fig_caption: true
+    number_sections: TRUE
+    includes:
+      in_header: "tex/preamble.tex"
+      before_body: "tex/pagedegarde1.tex"
+  html_document: default
+  word_document: default
+bibliography : [bibliography/bibliography.bib] 
+---
+
+\newpage
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load_library,echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+rm(list=ls())
+if(!require(pacman))install.packages("pacman");library("pacman")
+p_load(tidyverse,lubridate,ggthemes,sf,mapsf)
+```
+
+
+```{r load_function,echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+source("fonction.R",encoding = "UTF-8")
+```
+
+
+```{r load data ,echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+source("data.R",encoding = "UTF-8")
+```
+
+
+\newpage
+\listoffigures
+
+\newpage
+\listoftables
+
+\newpage
+# Inspection regionale 
+
+Décret exécutif n° 23-216 du 18 Dhou El Kaâda 1444
+correspondant au 7 juin 2023 modifiant et
+complétant le décret exécutif n° 96-68
+du 7 Ramadhan 1416 correspondant au 27 janvier
+1996 portant création, missions, organisation et
+fonctionnement de l'inspection générale
+du ministère de la santé et de la population.[@F20230_40_13]
+
+
+Arrêté du 29 Dhou El Hidja 1444 correspondant au
+17 juillet 2023 fixant le siège et la compétence
+territoriale des inspections régionales de la santé.[@F20230_59_19]
+
+# Praticiens Inspecteurs :
+
+| Dr Choutri Rédha | inspecteur régionale  |
+|------|------|------|
+| Dr Abid Mohammed       | inspecteur DSP Ain Defla|  
+| Dr Achouri Mohamed     | inspecteur DSP Laghouat |      
+| Dr Bouchakour Farid    | inspecteur DSP Chlef    |      
+| Dr Lajlat omar         | inspecteur DSP Médéa    |
+| Dr Radjai Said         | inspecteur DSP M'SILA   |    
+| Dr Tiba Rédha          | inspecteur DSP Djelfa   |      
+  
+
+
+```{r child="./chap/algerie.Rmd"}
+```
+
+
+
+\newpage
+# Chlef
+
+```{r echo=FALSE,warning=FALSE}
+### wilaya
+nbr <- 2
+nom_wilaya <- paste("Wilaya :",wilayasf[nbr]) 
+nom_commune <- paste("Commune wilaya :",wilayasf[nbr])
+```
+
+## `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Wilaya de Chlef",fig.height=6, fig.width=6}
+dzw %>% 
+  dplyr::filter(CW == nbr) %>% 
+  fct(ir,subtitle=nom_wilaya,caption)
+```
+
+## Communes `r nom_wilaya`
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Communes Wilaya de Chlef",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA == wilayasf[nbr]) %>% 
+  fct(ir,subtitle=nom_commune,caption)
+```
+
+\newpage
+## Population par commune `r nom_wilaya`
+
+```{r echo=FALSE,warning=TRUE}
+dzc %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> sig #%>% View()
+region %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> demographie #%>% View()
+sigf <- merge(x = sig, y = demographie, by.x = "CC", by.y = "IDC")
+plot(sigf["POP"])
+```
+
+\newpage
+## map sf  `r nom_wilaya`
+
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.cap = "wilaya de chlef type choro"}
+carte (sigf)
+carte2 (sigf)
+```
+```{r child="./chap/chlef.Rmd"}
+```
+
+\newpage
+# Ain defla
+
+```{r echo=FALSE,warning=FALSE}
+### wilaya
+nbr <- 44
+nom_wilaya <- paste("Wilaya :",wilayasf[nbr]) 
+nom_commune <- paste("Commune wilaya :",wilayasf[nbr])
+```
+
+## `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "wilaya de Ain Defla",fig.height=6, fig.width=6}
+dzw %>% 
+  dplyr::filter(CW == nbr) %>% 
+  fct(ir,subtitle=nom_wilaya,caption)
+```
+
+## Communes `r nom_wilaya`  
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Commune wilaya de Ain Defla",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA == wilayasf[nbr]) %>% 
+  fct(ir,subtitle=nom_commune,caption)
+```
+
+\newpage
+## Population par commune `r nom_wilaya`
+
+```{r echo=FALSE,warning=TRUE}
+dzc %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> sig #%>% View()
+region %>% dplyr::filter(WILAYA == "Aindefla") -> demographie #%>% View()
+sigf <- merge(x = sig, y = demographie, by.x = "CC", by.y = "IDC")
+plot(sigf["POP"])
+```
+\newpage
+
+## map sf `r nom_wilaya`
+
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.cap = "wilaya de Ain defla type choro"}
+# define the figure layout (1 row, 2 columns)
+# par(mfrow = c(1, 2))
+carte (sigf)
+carte2 (sigf)
+# par(mfrow = c(1, 1))
+```
+
+
+
+```{r child="./chap/aindefla.Rmd"}
+```
+
+
+\newpage
+# Médéa
+
+```{r echo=FALSE,warning=FALSE}
+### wilaya
+nbr <- 26
+nom_wilaya <- paste("Wilaya :",wilayasf[nbr]) 
+nom_commune <- paste("Commune wilaya :",wilayasf[nbr])
+```
+
+## `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "wilaya de Médéa",fig.height=6, fig.width=6}
+dzw %>% 
+  dplyr::filter(CW == nbr) %>% 
+  fct(ir,subtitle=nom_wilaya,caption)
+```
+
+## Communes `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Commune wilaya de Médéa",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA == wilayasf[nbr]) %>% 
+  fct(ir,subtitle=nom_commune,caption)
+```
+
+\newpage
+## Population par commune `r nom_wilaya`
+
+```{r echo=FALSE,warning=TRUE}
+dzc %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> sig #%>% View()
+region %>% dplyr::filter(WILAYA == "Medea") -> demographie #%>% View()
+sigf <- merge(x = sig, y = demographie, by.x = "CC", by.y = "IDC")
+plot(sigf["POP"])
+```
+\newpage
+
+## map sf `r nom_wilaya`
+
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.cap = "wilaya de medea type choro"}
+carte (sigf)
+carte2 (sigf)
+```
+```{r child="./chap/medea.Rmd"}
+```
+
+\newpage
+# Djelfa
+
+```{r echo=FALSE,warning=FALSE}
+### wilaya
+nbr <- 17
+nom_wilaya <- paste("Wilaya :",wilayasf[nbr]) 
+nom_commune <- paste("Commune wilaya :",wilayasf[nbr])
+```
+
+## `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "wilaya de Djelfa",fig.height=6, fig.width=6}
+dzw %>% 
+  dplyr::filter(CW == nbr) %>% 
+  fct(ir,subtitle=nom_wilaya,caption)
+```
+
+## Communes `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Commune wilaya de Djelfa",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA == wilayasf[nbr]) %>% 
+  fct(ir,subtitle=nom_commune,caption)
+```
+
+\newpage
+## Population par commune `r nom_wilaya`
+
+```{r echo=FALSE,warning=TRUE}
+dzc %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> sig #%>% View()
+region %>% dplyr::filter(WILAYA == "Djelfa") -> demographie #%>% View()
+sigf <- merge(x = sig, y = demographie, by.x = "CC", by.y = "IDC")
+plot(sigf["POP"])
+```
+\newpage
+
+## map sf `r nom_wilaya`
+
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.cap = "wilaya de djelfa type choro"}
+carte (sigf)
+carte2 (sigf)
+```
+```{r child="./chap/djelfa.Rmd"}
+```
+
+\newpage
+# Laghouat
+
+```{r echo=FALSE,warning=FALSE}
+### wilaya
+nbr <- 3
+nom_wilaya <- paste("Wilaya :",wilayasf[nbr]) 
+nom_commune <- paste("Commune wilaya :",wilayasf[nbr])
+```
+
+## `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "wilaya de Laghouat",fig.height=6, fig.width=6}
+dzw %>% 
+  dplyr::filter(CW == nbr) %>% 
+  fct(ir,subtitle=nom_wilaya,caption)
+```
+
+## Communes `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "commune wilaya de Laghouat",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA == wilayasf[nbr]) %>% 
+  fct(ir,subtitle=nom_commune,caption)
+```
+
+\newpage
+## Population par commune `r nom_wilaya`
+
+```{r echo=FALSE,warning=TRUE}
+dzc %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> sig #%>% View()
+region %>% dplyr::filter(WILAYA == "Laghouat") -> demographie #%>% View()
+sigf <- merge(x = sig, y = demographie, by.x = "CC", by.y = "IDC")
+plot(sigf["POP"])
+```
+
+\newpage
+
+## map sf `r nom_wilaya`
+
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.cap = "wilaya de laghouat type choro"}
+carte (sigf)
+carte2 (sigf)
+```
+```{r child="./chap/laghouat.Rmd"}
+```
+
+\newpage
+# M'sila
+
+```{r echo=FALSE,warning=FALSE}
+### wilaya
+nbr <- 28
+nom_wilaya <- paste("wilaya :",wilayasf[nbr]) 
+nom_commune <- paste("Commune wilaya :",wilayasf[nbr])
+```
+
+## `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "wilaya de M'sila",fig.height=6, fig.width=6}
+dzw %>% 
+  dplyr::filter(CW == nbr) %>% 
+  fct(ir,subtitle=nom_wilaya,caption)
+```
+
+## Communes `r nom_wilaya` 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Commune wilaya de M'sila",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA == wilayasf[nbr]) %>% 
+  fct(ir,subtitle=nom_commune,caption)
+```
+
+
+\newpage
+## Population par commune `r nom_wilaya`
+
+```{r echo=FALSE,warning=TRUE}
+dzc %>% dplyr::filter(WILAYA == wilayasf[nbr]) -> sig #%>% View()
+region %>% dplyr::filter(WILAYA == "Msila") -> demographie #%>% View()
+sigf <- merge(x = sig, y = demographie, by.x = "CC", by.y = "IDC")
+plot(sigf["POP"])
+```
+
+\newpage
+
+## map sf `r nom_wilaya`
+
+
+```{r echo=FALSE,message=FALSE,warning=FALSE,fig.cap = "wilaya de Médéa type choro"}
+carte (sigf)
+carte2 (sigf)
+```
+
+```{r child="./chap/msila.Rmd"}
+```
+
+
+\newpage
+# Région Médéa
+## Région wilayas
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Région de Médéa par Wilayas",fig.height=6, fig.width=6}
+dzw %>%
+  dplyr::filter(WILAYA  %in% region_26) %>% 
+  fct(ir,subtitle=region_26[1],caption)
+
+```
+
+\newpage
+## Région communes
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Région de Médéa par Communes",fig.height=6, fig.width=6}
+dzc %>%
+  dplyr::filter(WILAYA %in% region_26) %>% 
+  fct(ir,subtitle=region_26[1],caption)
+
+```
+
+\newpage
+## Région wilayas 
+
+```{r echo=FALSE,warning=FALSE,fig.cap = "Région de Médéa par Wilayas 2",fig.height=6, fig.width=6}
+dzw %>%
+  dplyr::filter(WILAYA %in% region_26) %>% 
+  ggplot()+
+  geom_sf(mapping = aes(fill = WILAYA),
+          color = "white",
+          size  = 0.25)+
+  coord_sf(crs = "+proj=robin")+
+  theme_void()+
+  labs(
+    x = "Temps en jours ",
+    y = "Nombre de décès par jours",
+    title = ir,
+    subtitle = "Région de Médéa par Wilayas 2",
+    caption = caption
+  )
+```
+
+\newpage
+## Démographie par Wilaya 
+
+<!-- a eleve le nombre des EPH EHS PC car il incompatible  ok -->
+
+```{r  echo=FALSE,warning=FALSE}
+wilayapop <- region %>% 
+  dplyr::select(WILAYA,POP,SUP,EPH,EHS,PLC,SS,IDC) %>%
+  dplyr::group_by(WILAYA) %>%
+  dplyr::summarise(POPW = sum(POP),
+                   SUPT=sum(SUP),
+                   #EPHT=sum(EPH),
+                   #EHST=sum(EHS),
+                   #PLCT=sum(PLC),
+                   #SST=sum(SS),
+                   COMMUNE=n()
+                   
+                   ) %>%
+  dplyr::mutate(DENS = round(POPW/SUPT, digits = 2)) %>%
+  dplyr::arrange(WILAYA) #%>%  View()
+totalpop  <- data.frame(WILAYA='Total', t(colSums(wilayapop[, -1])))
+sep <- data.frame(WILAYA='----------',
+                  POPW="----------",
+                  SUPT="----------",
+                 # EPHT="----",
+                  #EHST="----",
+                  #PLCT="----",
+                  #SST="----",
+                  DENS="----",
+                  COMMUNE="----"
+                  )
+df_new <- rbind(wilayapop,totalpop) #sep,
+#View(df_new)  
+#knitr::kable(df_new,caption = paste0("Wilayas de la region médéa "),align = "lrrrrrrrr")  
+
+df_new %>% 
+  #select(WILAYA,NCT,SUPT,POPW,DENS,EPHT,EHST,PLCT,SST) %>% 
+  select(WILAYA,COMMUNE,SUPT,POPW,DENS) %>% 
+  knitr::kable(caption = paste0(" Région de Médéa Démographie par Wilaya "),align = "lrrrrrrrr") 
+  #View()
+  
+  
+```
+
+
+## Structures de formation paramédicale publiques
+
+```{r echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+pm11 <- region_pm %>% 
+  dplyr::select(WILAYA,TYPE,DENOMINATION,CP,CH) %>% 
+  dplyr::group_by(WILAYA) %>% 
+  summarise(TOT=n(),
+            CP=sum(CP),
+            CH=sum(CH))  #%>% View()
+
+pm22 <- data.frame(
+  WILAYA="Total",
+  TOT=sum(pm11[,"TOT"]),
+  CP=sum(pm11[,"CP"]),
+  CH=sum(pm11[,"CH"]))  
+  
+pm33 <- rbind(pm11,pm22)
+knitr::kable(pm33,caption = paste0(" Structures de formation paramédicale publiques "),align = "lrrr")
+
+```
+
+## Ressources Humaines 
+
+```{r echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+per1 <- region_p %>% 
+  dplyr::select(GRADE,CHU,EPH,EHS,EH,EPSP) %>% 
+  dplyr::group_by(GRADE) %>% 
+  summarise(CHU=sum(CHU),
+            EPH=sum(EPH),
+            EHS=sum(EHS),
+            EH=sum(EH),
+            EPSP=sum(EPSP)) %>% 
+  dplyr::mutate(TOT=CHU+EPH+EHS+EH+EPSP) #%>% View()
+  
+per2 <- data.frame(
+  GRADE="Total",
+  CHU=sum(per1[,"CHU"]),
+  EPH=sum(per1[,"EPH"]),
+  EHS=sum(per1[,"EHS"]),
+  EH=sum(per1[,"EH"]),
+  EPSP=sum(per1[,"EPSP"]),
+  TOT=sum(per1[,"TOT"]))  
+  
+per3 <- rbind(per1,per2)
+knitr::kable(per3,caption = paste0(" Ressources Humaines "),align = "lrrr")
+ 
+```
+
+\newpage
+## Ressources matérielles 
+
+```{r echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+EQUIP11 <- region_ml %>% 
+  dplyr::select(ID,EQUIPEMENT,CHU,EPH,EHS,EH,EPSP) %>% 
+  dplyr::group_by(EQUIPEMENT) %>% 
+  summarise(CHU=sum(CHU),
+            EPH=sum(EPH),
+            EHS=sum(EHS),
+            EH=sum(EH),
+            EPSP=sum(EPSP)) %>%
+  dplyr::mutate(TOT=CHU+EPH+EHS+EH+EPSP) #%>% View()
+  
+EQUIP22 <- data.frame(
+  EQUIPEMENT="Total",
+  CHU=sum(EQUIP11[,"CHU"]),
+  EPH=sum(EQUIP11[,"EPH"]),
+  EHS=sum(EQUIP11[,"EHS"]),
+  EH=sum(EQUIP11[,"EH"]),
+  EPSP=sum(EQUIP11[,"EPSP"]),
+  TOT=sum(EQUIP11[,"TOT"]))  
+  
+EQUIP33 <- rbind(EQUIP11,EQUIP22)
+knitr::kable(EQUIP33,caption = paste0(" Ressources matérielles "),align = "lrrr")
+
+```
+
+## Structures Sanitaires par Wilaya
+
+```{r echo=FALSE,warning=FALSE,error=FALSE,message=FALSE}
+
+communepop <- region_e %>% 
+  dplyr::select(DAIRA,COMMUNE,TYPE,STRUCTURE,WILAYA) %>% 
+  dplyr::group_by(WILAYA,TYPE) %>% summarise(tot=n()) %>% 
+  tidyr::pivot_wider(names_from = TYPE, values_from = tot) %>% 
+  dplyr::mutate(EPH=replace_na(EPH,0),
+         EHS=replace_na(EHS,0),
+         PC=replace_na(PC,0),
+         SS=replace_na(SS,0)) %>% 
+  dplyr::mutate(TOT=EPH+EHS+PC+SS)  
+
+communepopt1  <- data.frame(WILAYA='Total',t(colSums(communepop[,-1])))
+df_communepop <- rbind(communepop,communepopt1) 
+
+knitr::kable(df_communepop,caption = paste0(" Structures Sanitaires par Wilaya "),align = "lrrr")
+
+```
+
+# Annexes
+\newpage
+\includepdf[pages=12-13]{pdf_tuto/F20230_40_13.pdf}
+
+\newpage
+\includepdf[pages=19-19]{pdf_tuto/F20230_59_19.pdf}
+
+\newpage
+
+# Références
+
