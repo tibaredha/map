@@ -1,0 +1,66 @@
+---
+output:
+  pdf_document: 
+    df_print: kable
+    toc: False
+    toc_depth: 3
+    fig_caption: true
+    number_sections: False
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if(!require(pacman))install.packages("pacman");library("pacman")
+p_load(tidyverse,lubridate)
+```
+
+# Date inspection :
+
+# EPSP EPH EHS :
+
+<!-- pieces a fournire lors de l'inspection  -->
+
+## Directeur de l'établissement
+- Arrêté de création de l'établissement constitution physique
+
+## S/DSS
+- Comité de lutte contre les infections nosocomiale CLIN décision de création et dernier PV
+- Comite de médicament                                   décision de création et dernier PV
+- Comite des gardes et des urgences                      décision de création et dernier PV
+- Comite de numérisation                                 décision de création et dernier PV.
+- Conseil médical                                        décision de création et dernier PV
+- Etat de rupture des médicaments
+- Analyses bactériologiques et physico-chimique
+- Chariot d'urgence UMC + dialyse + maternité
+- Elaboration de la charte du malade
+
+## S/DFM
+- Plan de sécurité interne de l'établissement
+- Commission de réception des denrées alimentaires
+- Etat de dettes de l'établissement
+- Contrats de maintenance : Preventives/ curatives.
+- Elimination des DASRI 
+- conseil d'administration décision de création et dernier PV
+
+## S/DMM
+- Etat des equipements a reformer , 
+- Registre des inventaires des equipements de sante ( bien renseigner et a jour) , 
+- fonctionnalite du GMAO ou mini GMAO.
+
+## S/DRH
+- commision paritaire (titulaire et contractuel) décision de création et dernier PV
+- Commision d'hygienne et de sécurité            décision de création et dernier PV
+- Etat nominatif (Nom,Prénom ,Grade,Poste,Télphone,Email):Staff administrative
+- Plan de formation continue annuelle
+- Partenaires sociaux : nombre de section ,      pv d'instalation et dernier PV
+
+
+
+```{=latex}
+%\layout
+```
+
+
+
+
