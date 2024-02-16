@@ -1,0 +1,93 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(sf)
+library(tidyverse)
+```
+
+
+```{r}
+djelfa <- read_sf("../shp/djelfa.shp")
+```
+
+
+```{r}
+djelfa %>% 
+  mutate(poplog = log(POP),suplog = log(SUP)) -> pop_djelfa
+```
+
+
+```{r}
+plot(pop_djelfa["poplog"])
+```
+
+```{r}
+plot(pop_djelfa["suplog"])
+```
+
+
+
+```{r message=FALSE, warning=FALSE}
+library(ggplot2)
+ggplot() + 
+  geom_sf(data = pop_djelfa, 
+          aes(fill = as.factor(suplog)),
+          color = "#401D16", size = 0.25) +
+  scale_fill_viridis_d(option = "plasma") +
+  guides(fill = FALSE) +
+  theme_void()
+```
+
+
+
+
+```{r fig.height=8, fig.width=8}
+ga_cities <- tribble(
+  ~city, ~lat, ~long,
+  "EPH-Birine", 35.620470244390944, 3.212614068661787,
+  "EPH-Ain-oussera", 35.4554294869433, 2.9050393689471274,
+  "EPH-Hassi bahbah",35.086917214907054, 3.0241281169692034,
+  "EPH-Djelfa",34.663257386688, 3.265356605695543,
+  "EHS-Djelfa",34.66218849324101, 3.264959746135702,
+  "EPH-Mixte",34.68421120614393, 3.239031879712082,
+  "EH-Ophtalmo",34.65742386155733, 3.2620020152595544,
+  "EPH-Idrissia",34.45618100171768, 2.5309556142658862,
+  "EPH-Messaad",34.156638714200504, 3.4852112316488912,
+)
+
+ga_cities_geometry <- ga_cities %>% 
+  st_as_sf(coords = c("long", "lat"), crs = 4326)
+```
+
+
+
+
+```{r fig.height=8, fig.width=8, message=FALSE, warning=FALSE}
+ggplot() +
+  geom_sf(data = pop_djelfa, fill = "#EC8E55") +
+  geom_sf(data = ga_cities_geometry, size = 1.5 ) +
+  #geom_sf_label(data = ga_cities_geometry, aes(label = city),nudge_y = 0.1) +
+  theme_void()+
+  coord_sf(crs = "+proj=robin")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
